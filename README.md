@@ -14,6 +14,4 @@ Python, Django, React, HTML/CSS, SQL, Pytes.
 
 ##Projects (Pinned below)
 -------------------------
-
-1. School App – Django  + MySQL 
-2. E-Commerce App – Django  + React 
+ 
